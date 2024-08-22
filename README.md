@@ -189,7 +189,7 @@ Tu perfil de GitHub es una excelente manera de presentarte y destacar tus proyec
 
 ## Widgets
 ### Imágenes SVG Animadas
-> **IMPORTANTE**
+> [!IMPORTANT]
 > La imagen debe estar en formato .svg
 
 <img width="300px" src="img/gojo.svg"/>
