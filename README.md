@@ -12,9 +12,16 @@ Add your own or someone else's to contribute to this collection!
 Your GitHub profile is a great way to introduce yourself and highlight your projects on a single page. This document allows you to showcase your personality, skills, and achievements, attracting the attention of other developers and recruiters.
 
 ## Table of Contents
-1. [Profile Examples](#profile-examples)
-2. [Resources](#resources)
-3. [Widgets](#widgets)
+1. [Profile Examples](#Profile-examples)
+2. [Resources](#Resources)
+3. [Widgets](#Widgets)
+4. [GitHubstats](#GitHub_stats)
+4. [Metrics](#Metrics )
+4. [Trophies](#Trophies)
+5. [Gyphys](#Add_Giphys)
+5. [Shields Badgets](#Shields_Badgets)
+6. [View Counter](#View_Counter)
+7. [Videos Youtube](#Videos_Youtube)
 
 
 ## Profile Examples
@@ -65,10 +72,11 @@ Your GitHub profile is a great way to introduce yourself and highlight your proj
   }
 </style>
 
-### GitHub stats
+```
+
+### GitHub_stats
 Repo: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-```
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nova-cz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 ```
 
@@ -78,7 +86,7 @@ Repo: [https://github.com/lowlighter/metrics/tree/master](https://github.com/low
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rbmokFTg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/idot5ak9irxtu948bgzs.png" alt="Metrics v3">
 
-### Trofeos
+### Trophies
 Repo: [https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 ```
@@ -86,8 +94,8 @@ Repo: [https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-m
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=nova-cz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Agregar Giphys
-Página de Giphys: [https://giphy.com/stickers/](https://giphy.com/stickers/)
+### Add_Giphys
+Giphys Page:: [https://giphy.com/stickers/](https://giphy.com/stickers/)
 ```
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
@@ -97,9 +105,9 @@ Página de Giphys: [https://giphy.com/stickers/](https://giphy.com/stickers/)
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml4d2V2OHhsYzMwN2RpaGRvZmQ5cXRqbWN0NnB0MHhzOWQwcjNlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" width="200"/>
 </div>
 
-### Shields Badgets
-Documentación: [https://shields.io/badges](https://shields.io/badges)</br>
-Repo para copiar código: [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+### Shields_Badgets
+Documentation:: [https://shields.io/badges](https://shields.io/badges)</br>
+Repo for copying code: [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
 ```
 <div id="badges">
@@ -114,18 +122,20 @@ Repo para copiar código: [Markdown Badges](https://github.com/Ileriayo/markdown
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-### View Counter
+### View_Counter
 Repo: [https://github.com/antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 ```
 <img src="https://komarev.com/ghpvc/?username=nova-cz&style=flat-square&color=blue" alt=""/>
 ```
 <img src="https://komarev.com/ghpvc/?username=nova-cz&style=flat-square&color=blue" alt=""/>
 
-### Videos de Youtube
+### Videos_Youtube
 Repo: [Youtube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards) </br> 
-Sigue las instrucciones del repo para agregar videos de youtube automatizados para que tu readme siempre esté al día.
+Follow the instructions in the repo to add automated YouTube videos so that your readme is always up to date.
 
-Pero si quieres poner videos en especifico puedes hacerlo modificando el siguiente link:
+But if you want to add specific videos, you can do so by modifying the following link:
 ```
 https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>"
 ```
+[![The Strokes - Last Nite](https://ytcards.demolab.com/?id=o4qsjmLxhow&title=The+Strokes+-+Last+Nite&lang=en&timestamp=1662852000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189 "The Strokes - Last Nite")](https://youtu.be/o4qsjmLxhow?si=FBBEipX_aOxpGclY)
+
