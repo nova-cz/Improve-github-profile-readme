@@ -46,7 +46,7 @@ Your GitHub profile is a great way to introduce yourself and highlight your proj
 
 ## Widgets
 ### Animated SVG Images
-> **IMPORTANT**
+> [!IMPORTANT]
 > The image must be in .svg f rmat
 
 <img width="300px" src="img/gojo.svg"/>
