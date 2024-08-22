@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&width=435&lines=Update+Your+GitHub+Profile+%F0%9F%98%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&pause=1000&width=435&lines=Instructions+in+English%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A" alt="Typing SVG" /></a>
 
 # Update Your GitHub Profile
 
@@ -138,4 +138,137 @@ But if you want to add specific videos, you can do so by modifying the following
 https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>"
 ```
 [![The Strokes - Last Nite](https://ytcards.demolab.com/?id=o4qsjmLxhow&title=The+Strokes+-+Last+Nite&lang=en&timestamp=1662852000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189 "The Strokes - Last Nite")](https://youtu.be/o4qsjmLxhow?si=FBBEipX_aOxpGclY)
+
+
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&pause=1000&width=435&lines=Instrucciones+en+Espa%C3%B1ol%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+" alt="Typing SVG" /></a>
+
+# Actualiza tu perfil de GitHub
+
+Este repositorio está diseñado para recopilar plantillas, ejemplos de README de perfiles y recursos que serán útiles para crear el tuyo propio.
+
+¡Añade el tuyo o el de otra persona para contribuir a esta colección!
+
+## ¿Por qué actualizar tu perfil de GitHub?
+
+Tu perfil de GitHub es una excelente manera de presentarte y destacar tus proyectos en una sola página. Este documento te permite mostrar tu personalidad, habilidades y logros, atrayendo la atención de otros desarrolladores y reclutadores.
+
+## Tabla de Contenidos
+1. [Ejemplos de Perfiles](#Ejemplos-de-Perfiles)
+2. [Recursos](#Recursos)
+3. [Widgets](#Widgets)
+4. [Estadísticas de GitHub](#Estadisticas-de-GitHub)
+4. [Métricas](#Métricas)
+4. [Trofeos](#Trofeos)
+5. [Gifs](#Añadir_Gifs)
+5. [Insignias de Shields](#Insignias_de_Shields)
+6. [Contador de Visitas](#Contador_de_Visitas)
+7. [Videos de YouTube](#Videos_de_YouTube)
+
+
+## Ejemplos de Perfiles
+- [Colección de Ejemplos](https://zzetao.github.io/awesome-github-profile/)
+
+## Recursos
+### Markdown
+- [Guía Básica de Sintaxis](https://www.markdownguide.org/basic-syntax/)
+
+### Cómo crear texto animado con typing SVG
+- [Readme Typing SVG](https://readme-typing-svg.demolab.com/demo/?weight=800&size=30&lines=Hola+%F0%9F%91%8B%2C+soy+Miguel+Cruz;¡Bienvenido+a+mi+perfil!;Soy+un+estudiante+de+Ciencias+de+la+Computación+aprendiendo+desarrollo+web.)
+
+### Banner
+- [Generador de Encabezados de Perfil](https://leviarista.github.io/github-profile-header-generator/)
+
+### Generadores de Perfiles
+- [Profile Me](https://www.profileme.dev/)
+- [Profilinator](https://profilinator.rishav.dev/)
+- [M->G](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Product Hunt](https://githubprofile.com/es)
+
+## Widgets
+### Imágenes SVG Animadas
+> **IMPORTANTE**
+> La imagen debe estar en formato .svg
+
+<img width="300px" src="img/gojo.svg"/>
+<img width="100px" src="img/nova.svg"/>
+
+---
+>- Sube tu imagen `.svg` y añade la clase `class="fadeIn"` al `<svg`. Inserta el código de abajo 👇 debajo de `</pattern>` para habilitar la animación en tu imagen .svg para tu Markdown. Para hacer que la animación se repita en bucle, añade `infinite;`.
+
+```html
+<style>
+  .fadeIn {
+    opacity: 0;
+    animation: fadeIn 2s linear 2.8s forwards;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+```
+### Estadísticas de GitHub
+
+Repositorio: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nova-cz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Mis estadísticas de GitHub"/>
+
+### Métricas
+
+Repositorio: [https://github.com/lowlighter/metrics/tree/master](https://github.com/lowlighter/metrics/tree/master)
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rbmokFTg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/idot5ak9irxtu948bgzs.png" alt="Métricas v3"/>
+
+### Trofeos
+
+Repositorio: [https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trofeo](https://github-profile-trophy.vercel.app/?username=nova-cz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Añadir_Gifs
+
+Página de Giphy: [https://giphy.com/stickers/](https://giphy.com/stickers/)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml4d2V2OHhsYzMwN2RpaGRvZmQ5cXRqbWN0NnB0MHhzOWQwcjNlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" width="200"/>
+</div>
+
+### Insignias de Shields
+
+Documentación: [https://shields.io/badges](https://shields.io/badges)</br> Repositorio para copiar código: [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Insignia de LinkedIn"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Insignia de YouTube"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Insignia de Twitter"/>
+</div>
+
+### Contador_de_Visitas
+
+Repositorio: [https://github.com/antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+
+<img src="https://komarev.com/ghpvc/?username=nova-cz&style=flat-square&color=blue" alt=""/>
+
+### Videos_de_YouTube
+
+Repositorio: [YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards) </br> Sigue las instrucciones en el repositorio para añadir videos de YouTube automatizados para que tu readme esté siempre actualizado.
+
+Pero si deseas agregar videos específicos, puedes hacerlo modificando el siguiente enlace:
+
+https://ytcards.demolab.com/?id=<ID del video>&title=<título+del+video>&lang=en&timestamp=<fecha de publicación del video en formato de tiempo Unix>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<duración del video en segundos> "<título del video>"
+
+[![The Strokes - Last Nite](https://ytcards.demolab.com/?id=o4qsjmLxhow&title=The+Strokes+-+Last+Nite&lang=en&timestamp=1662852000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189 "The Strokes - Last Nite")](https://youtu.be/o4qsjmLxhow?si=FBBEipX_aOxpGclY)
+
 
