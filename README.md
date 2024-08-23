@@ -141,9 +141,7 @@ https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp
 
 
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Instrucciones+en+espa%C3%B1ol%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&width=435&lines=Instrucciones+en+espa%C3%B1ol%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+" alt="Typing SVG" /></a>
 
 # Actualiza tu perfil de GitHub
 
@@ -238,16 +236,20 @@ Repositorio: [https://github.com/ryo-ma/github-profile-trophy](https://github.co
 Página de Giphy: [https://giphy.com/stickers/](https://giphy.com/stickers/)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-</div>
-
-<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml4d2V2OHhsYzMwN2RpaGRvZmQ5cXRqbWN0NnB0MHhzOWQwcjNlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" width="200"/>
 </div>
 
 ### Insignias de Shields
 
 Documentación: [https://shields.io/badges](https://shields.io/badges)</br> Repositorio para copiar código: [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+```
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+```
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Insignia de LinkedIn"/>
@@ -259,6 +261,10 @@ Documentación: [https://shields.io/badges](https://shields.io/badges)</br> Repo
 
 Repositorio: [https://github.com/antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 
+```
+<img src="https://komarev.com/ghpvc/?username=nova-cz&style=flat-square&color=blue" alt=""/>
+```
+
 <img src="https://komarev.com/ghpvc/?username=nova-cz&style=flat-square&color=blue" alt=""/>
 
 ### Videos_de_YouTube
@@ -267,7 +273,9 @@ Repositorio: [YouTube Cards](https://github.com/DenverCoder1/github-readme-youtu
 
 Pero si deseas agregar videos específicos, puedes hacerlo modificando el siguiente enlace:
 
-https://ytcards.demolab.com/?id=<ID del video>&title=<título+del+video>&lang=en&timestamp=<fecha de publicación del video en formato de tiempo Unix>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<duración del video en segundos> "<título del video>"
+```
+https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>"
+```
 
 [![The Strokes - Last Nite](https://ytcards.demolab.com/?id=o4qsjmLxhow&title=The+Strokes+-+Last+Nite&lang=en&timestamp=1662852000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189 "The Strokes - Last Nite")](https://youtu.be/o4qsjmLxhow?si=FBBEipX_aOxpGclY)
 
