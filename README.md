@@ -1,5 +1,4 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&pause=1000&width=435&lines=Instructions+in+English%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&width=435&lines=+Instructions+in+English%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A" alt="Typing SVG" /></a>
 
 # Update Your GitHub Profile
 
