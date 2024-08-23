@@ -139,7 +139,7 @@ https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&width=435&lines=Instrucciones+en+espa%C3%B1ol%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&width=435&lines=Instrucciones+en+Espa%C3%B1ol%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+" alt="Typing SVG" /></a>
 
 # Actualiza tu perfil de GitHub
 
